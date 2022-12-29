@@ -1,11 +1,11 @@
-# Launch_X_Misión Backend
+# Aprende Programación en Python
 
-Estas son las prácticas realizadas durante la misión backend en el programa de Innovaccion virtual Launch X-LATAM
+Estas son las prácticas realizadas en el curso de Udemy "Aprende programación en Python", impartido por Alejandro Miguel Taboada Sanchez, creador del canal de youtube Programación ATS.
 
-# JS_Backend_Intro
+# Contenido del curso
 
 | Sección :computer: | Lección :floppy_disk: | Ejercicios :crystal_ball: |
 | ------------- |------------- | ------------- |
 | Elementos básicos |[Hola mundo, asignaciones de valor y operaciones aritméticas](https://github.com/mibarra24/Python-practices/tree/main/basicElements)| [Ejercicios](https://github.com/mibarra24/Python-practices/tree/main/basicElements/ejercicios) |
 | Condicionales |[Uso de if-elif-else](https://github.com/mibarra24/Python-practices/tree/main/2-condicionales)| [Ejercicios](https://github.com/mibarra24/Python-practices/tree/main/2-condicionales/ejercicios)
-| Colecciones |[Listas, tuplas y conjuntos]()
+| Colecciones |[Listas, tuplas y conjuntos](https://github.com/mibarra24/Python-practices/tree/main/3-colecciones)| [Ejercicios]()
