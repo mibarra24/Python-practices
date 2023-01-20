@@ -10,4 +10,5 @@ Estas son las prácticas realizadas en el curso de Udemy "Aprende programación 
 | Condicionales |[Uso de if-elif-else](https://github.com/mibarra24/Python-practices/tree/main/2-condicionales)| [Ejercicios](https://github.com/mibarra24/Python-practices/tree/main/2-condicionales/ejercicios)
 | Colecciones |[Listas, tuplas y conjuntos](https://github.com/mibarra24/Python-practices/tree/main/3-colecciones)| [Ejercicios](https://github.com/mibarra24/Python-practices/tree/main/3-colecciones/ejercicios)
 | Bucles |[Bucle while, for y tipo range](https://github.com/mibarra24/Python-practices/tree/main/4-bucles)|[Ejercicios](https://github.com/mibarra24/Python-practices/tree/main/4-bucles/ejercicios)
-| Cadenas |[]()|[Ejercicios]()
+| Cadenas |[Cadena de caracteres, indices y slicing, metodos para cadenas](https://github.com/mibarra24/Python-practices/tree/main/5-cadenas)|[Ejercicios](https://github.com/mibarra24/Python-practices/tree/main/5-cadenas/ejercicios)
+| Funciones |[Funciones sin retorno y con retorno, argumentos y parametros, por valor de referencia, funciones recursivas](https://github.com/mibarra24/Python-practices/tree/main/6-funciones)|[Ejercicios](https://github.com/mibarra24/Python-practices/tree/main/6-funciones/ejercicios)
